@@ -1,0 +1,17 @@
+{
+  "name": "a1qajswsh2",
+  "version": "1.0.0",
+  "description": "workshop 2",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test",
+    "myApp": "node --experimental-json-modules myApplication.js"
+  },
+  "author": "a1qa",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
